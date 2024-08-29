@@ -8,7 +8,7 @@ The project focuses on the critical preprocessing of datasets related to PTM sit
 
 ### Source Data
 
-Detailed data sources will be provided here, along with links if applicable.
+Detailed data sources will be provided [here](https://doi.org/10.1126/science.ade3925).
 
 ## Repository Structure
 
