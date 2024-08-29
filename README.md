@@ -39,7 +39,7 @@ Detailed data sources will be provided [here](https://doi.org/10.1126/science.ad
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE_LINK) file for details.
+This project is licensed under the MIT License
 
 ## Contact
 
